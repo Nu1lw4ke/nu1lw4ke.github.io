@@ -1,3 +1,10 @@
+---
+title: DevArea Linux
+date: 2026-05-31 
+categories: [Reports, Linux]
+tags: [Linux, writeup, HTB]
+---
+
 ```
 $ nmap -A -sV -p- 10.129.21.65 -oX scan.xml
 Starting Nmap 7.93 ( https://nmap.org ) at 2026-04-01 07:33 EDT
