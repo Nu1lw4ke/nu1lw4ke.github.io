@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yashkov Roman
+  name: Roman
   email: yashkovromanyou@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/imgres?q=monkey%20de%20luffy%20lauthing&imgurl=https%3A%2F%2Fpreview.redd.it%2Fwhich-is-scarier-worse-when-luffy-laughs-at-you-during-a-v0-ldt3bnaabanb1.jpg%3Fwidth%3D308%26format%3Dpjpg%26auto%3Dwebp%26s%3D798c1967bdd457e01d6a120ae4a9bc5cadd7d17a&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FMemePiece%2Fcomments%2F16eexzn%2Fwhich_is_scarierworse_when_luffy_laughs_at_you%2F&docid=y5-_lbX5VQCV8M&tbnid=drfqls2IRpQWPM&vet=12ahUKEwivrs20kuKUAxX42wIHHRDhFV4QnPAOegQIahAB..i&w=308&h=308&hcb=2&ved=2ahUKEwivrs20kuKUAxX42wIHHRDhFV4QnPAOegQIahAB
+avatar: _data/onepeace.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
