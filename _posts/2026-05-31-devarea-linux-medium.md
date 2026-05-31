@@ -1,6 +1,6 @@
 ---
 title: DevArea Linux
-date: 2026-05-31 
+date: 2026-05-31 03:00:00 +0300
 categories: [Reports, Linux]
 tags: [Linux, writeup, HTB]
 ---
